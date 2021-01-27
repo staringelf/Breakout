@@ -1,0 +1,16 @@
+/* *,*::after,*::before{
+    box-sizing: border-box;
+} */
+
+body{
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    /* background-color: midnightblue; */
+}
+
+#game-screen{
+    border: 6px solid #11111126;
+    border-bottom: 2px solid salmon;
+    margin: auto;
+}
